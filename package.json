@@ -4,9 +4,13 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "aws-sdk": "^2.473.0",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "node-fetch": "^2.3.0"
+    "fetch-headers": "^2.0.0",
+    "node-fetch": "^2.3.0",
+    "node-uuid": "^1.4.8",
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.10"
